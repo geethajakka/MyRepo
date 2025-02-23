@@ -88,6 +88,10 @@ atlassian-ide-plugin.xml
 # Cursive Clojure plugin
 .idea/replstate.xml
 
+
+#yaml
+*.yml
+
 # Ruby plugin and RubyMine
 /.rakeTasks
 
